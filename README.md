@@ -1,6 +1,5 @@
 # Sonic_Telegram
 
-Here is a potential bullet point slide for a powerpoint presentation on sonic telegram and the future of biometrically-generated music:
 
 Sonic Telegram: The Future of Biomimetric Music
 
