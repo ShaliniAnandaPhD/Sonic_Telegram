@@ -36,7 +36,7 @@ By drawing inspiration from *Stomp*, Sonic Telegram transforms the body’s natu
 
 - **🎭 Emotional Expression Modeling**: Incorporation of sentiment analysis and emotion recognition techniques to translate biometric signals into emotionally expressive music.
 
-- **🤝 Collaborative Music Generation**: Multi-agent reinforcement learning and collaborative filtering algorithms to enable harmonious blending of multiple users' biometric signals for collaborative music creation.
+- ** Collaborative Music Generation**: Multi-agent reinforcement learning and collaborative filtering algorithms to enable harmonious blending of multiple users' biometric signals for collaborative music creation.
 
 - **⚡ Real-Time Performance Optimization**: Model compression, parallel processing, and caching techniques to ensure low-latency and real-time music generation.
 
@@ -44,11 +44,11 @@ By drawing inspiration from *Stomp*, Sonic Telegram transforms the body’s natu
 
 - ** Visual Representation**: Dynamic visual animations synchronized with the generated music to enhance the audience experience.
 
-- ** Data Privacy and Security**: Robust encryption and federated learning techniques to protect artists' sensitive biometric data.
+- **🔒 Data Privacy and Security**: Robust encryption and federated learning techniques to protect artists' sensitive biometric data.
 
 - ** Model Interpretability**: Feature importance analysis and attention visualization to understand the relationships between biometric signals and musical elements.
 
-- **🎯 Adaptive Learning and Personalization**: Meta-learning and transfer learning approaches to adapt the system to individual artists' biometric patterns and enable rapid personalization.
+- ** Adaptive Learning and Personalization**: Meta-learning and transfer learning approaches to adapt the system to individual artists' biometric patterns and enable rapid personalization.
 
 ## 📚 ML Papers and Techniques
 
@@ -129,13 +129,16 @@ Please note that all contributions will be reviewed by the project maintainers, 
 
 This project is licensed under the [MIT License](LICENSE). By contributing to Sonic Telegram, you agree to license your contributions under the same license.
 
-
 ## 📞 Contact
 
-For any questions, suggestions, or collaborations, https://twitter.com/SynthCircuit
+For any questions, suggestions, or collaborations, please contact the project maintainers at [sonic-telegram@example.com](mailto:sonic-telegram@example.com).
+
+Together, let's redefine the future of music creation and experience with Sonic Telegram!
 
 https://github.com/ShaliniAnandaPhD/Sonic_Telegram
 
 ---
 
-**Note**: This project started as a hackathon entry for the Outside LLMs Hackathon, where the initial concepts and prototypes were developed and showcased.
+**Note**: This project started as a hackathon entry for the Outside LLMs Hackathon, where the initial concepts
+
+ and prototypes were developed and showcased.
