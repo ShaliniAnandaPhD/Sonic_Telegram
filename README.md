@@ -131,9 +131,7 @@ This project is licensed under the [MIT License](LICENSE). By contributing to So
 
 ## 📞 Contact
 
-For any questions, suggestions, or collaborations, please contact the project maintainers at [sonic-telegram@example.com](mailto:sonic-telegram@example.com).
-
-Together, let's redefine the future of music creation and experience with Sonic Telegram!
+For any questions, suggestions, or collaborations, please contact the project maintainers at https://twitter.com/SynthCircuit
 
 https://github.com/ShaliniAnandaPhD/Sonic_Telegram
 
