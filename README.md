@@ -40,15 +40,15 @@ By drawing inspiration from *Stomp*, Sonic Telegram transforms the body’s natu
 
 - **⚡ Real-Time Performance Optimization**: Model compression, parallel processing, and caching techniques to ensure low-latency and real-time music generation.
 
-- ** Interactive User Interface**: Intuitive graphical user interface (GUI) for artists to calibrate their biometric ranges, define custom mappings, and control the generation process.
+- **Interactive User Interface**: Intuitive graphical user interface (GUI) for artists to calibrate their biometric ranges, define custom mappings, and control the generation process.
 
-- ** Visual Representation**: Dynamic visual animations synchronized with the generated music to enhance the audience experience.
+- **Visual Representation**: Dynamic visual animations synchronized with the generated music to enhance the audience experience.
 
 - **🔒 Data Privacy and Security**: Robust encryption and federated learning techniques to protect artists' sensitive biometric data.
 
-- ** Model Interpretability**: Feature importance analysis and attention visualization to understand the relationships between biometric signals and musical elements.
+- **Model Interpretability**: Feature importance analysis and attention visualization to understand the relationships between biometric signals and musical elements.
 
-- ** Adaptive Learning and Personalization**: Meta-learning and transfer learning approaches to adapt the system to individual artists' biometric patterns and enable rapid personalization.
+- **Adaptive Learning and Personalization**: Meta-learning and transfer learning approaches to adapt the system to individual artists' biometric patterns and enable rapid personalization.
 
 ## 📚 ML Papers and Techniques
 
