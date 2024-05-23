@@ -36,7 +36,7 @@ By drawing inspiration from *Stomp*, Sonic Telegram transforms the body’s natu
 
 - **🎭 Emotional Expression Modeling**: Incorporation of sentiment analysis and emotion recognition techniques to translate biometric signals into emotionally expressive music.
 
-- ** Collaborative Music Generation**: Multi-agent reinforcement learning and collaborative filtering algorithms to enable harmonious blending of multiple users' biometric signals for collaborative music creation.
+- **Collaborative Music Generation**: Multi-agent reinforcement learning and collaborative filtering algorithms to enable harmonious blending of multiple users' biometric signals for collaborative music creation.
 
 - **⚡ Real-Time Performance Optimization**: Model compression, parallel processing, and caching techniques to ensure low-latency and real-time music generation.
 
